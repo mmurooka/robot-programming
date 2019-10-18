@@ -4,16 +4,7 @@
 
 (ros::roseus "kadai1_4_robot_interface")
 
-(defun button-cb
-    (msg)
-  (setq button (send msg :button))
-  (setq state (send msg :state))
-  (ros::ros-info "subscribe msg [button: ~A  state: ~A]" button state)
-  )
-
 (turtlebot-init)
-
-
 
 (ros::ros-info "start !!!")
 
@@ -37,4 +28,3 @@
    )
  (ros::sleep)
  )
-
