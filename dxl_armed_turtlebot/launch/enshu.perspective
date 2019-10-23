@@ -33,7 +33,7 @@
               "keys": {
                 "topic": {
                   "type": "repr", 
-                  "repr": "u'/cmd_vel'"
+                  "repr": "u'/cmd_vel_mux/input/teleop'"
                 }, 
                 "vx_min": {
                   "type": "repr", 
