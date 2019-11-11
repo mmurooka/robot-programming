@@ -2,6 +2,9 @@
 Changelog for package daisya_euslisp_tutorials
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+forthcoming
+------------------
+
 6.0.0 (2019-06-16)
 ------------------
 
